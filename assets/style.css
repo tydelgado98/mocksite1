@@ -4,3 +4,8 @@ a{
 ul{
  list-style: none;
 }
+nav ul{
+ margin: 0;
+ padding: 0;
+ 
+}
