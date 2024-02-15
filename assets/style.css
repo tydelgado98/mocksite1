@@ -5,7 +5,8 @@ ul{
  list-style: none;
  display: flex;
  flex-direction: row;
-    justify-content: space-around;
+ justify-content: end;
+ gap: 20px;
 }
 nav{
  margin: 0;
