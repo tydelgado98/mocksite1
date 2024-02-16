@@ -7,6 +7,7 @@ ul{
  flex-direction: row;
  justify-content: end;
  gap: 20px;
+ margin-right: 10px;
 }
 nav{
  margin: 0;
@@ -15,3 +16,4 @@ nav{
 header{
  text-align: center;
 }
+
